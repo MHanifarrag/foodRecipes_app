@@ -1,4 +1,4 @@
-Flutter app that uses https://www.themealdb.com/api.php .
+Flutter app that uses https://www.themealdb.com/api.php  
 to search to food recipes and display the results in a nice way.
 
 # Home screen
