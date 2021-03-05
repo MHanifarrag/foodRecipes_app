@@ -1,5 +1,10 @@
-Flutter app that uses https://www.themealdb.com/api.php  
-to search for food recipes and display the results in a nice way.
+flutter app that search for a meal recipe    
+and get the data from api and show the results  
+as you type in the search box  
+by useing rxdart denounce method  
+API : https://www.themealdb.com/api.php  
+
+
 
 <h1>Home screen</h1>	
   <img src="https://user-images.githubusercontent.com/45540581/109889617-64023a80-7c8e-11eb-98fc-fa144067552d.png" width="256" height="455">  
